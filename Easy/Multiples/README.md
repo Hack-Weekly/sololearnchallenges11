@@ -1,32 +1,33 @@
-# Duct Tape
+# Multiples
 
-You want to completely cover a flat door on both sides with duct tape. You need to know how many rolls of duct tape to buy when you go to the store.
+You need to calculate the sum of all the multiples of 3 or 5 below a given number.
 
 ## Task
 
-Given the height and width of the door, determine how many rolls of duct tape you will need (a roll of duct tape is 60 feet long and 2 inches wide and there are 12 inches in each foot). Don't forget both sides of the door!
+Given an integer number, output the sum of all the multiples of 3 and 5 below that number.
+If a number is a multiple of both, 3 and 5, it should appear in the sum only once.
 
 ## Input Format
 
-Two integers that represent the height and width of the door.
+An integer.
 
 ## Output Format
 
-An integer that represents the total rolls of duct tape that you need to buy.
+An integer, representing the sum of all the multiples of 3 and 5 below the given input.
 
 ## Sample Input
 
 ```=
-7
-4
+10
 ```
 
 ## Sample Output
 
 ```=
-6
+23
 ```
 
 ## Explanation
 
-You will need 6 rolls of duct tape to cover both sides of a 7ft x 4ft door.
+The numbers below 10 that are multiples of 3 or 5 are 3, 5, 6 and 9.
+The sum of these numbers is 3+5+6+9=23

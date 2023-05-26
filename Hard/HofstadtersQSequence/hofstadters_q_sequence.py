@@ -4,7 +4,7 @@ setrecursionlimit(100000)
 results = [0] * 100000
 
 def q_seq(num):
-    if num == 1 or num ==2:
+    if num in [1, 2]:
         return 1
     if results[num] != 0:
         return results[num]

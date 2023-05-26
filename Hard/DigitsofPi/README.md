@@ -9,7 +9,7 @@ Given an integer N as input, find and output the Nth decimal digit of Pi.
 
 ## Input Format
 
-An integer 0<N<1000
+An integer `0 < N < 1000`
 
 ## Output Format
 

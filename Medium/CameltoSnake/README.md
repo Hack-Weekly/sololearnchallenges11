@@ -1,7 +1,7 @@
 # Camel to Snake
 
-The company you are working for is refactoring its entire codebase. It's changing all naming conventions from camel to snake case (camelCasing to snake*casing).
-Every capital letter is replaced with its lowercase prefixed by an underscore *, except for the first letter, which is lowercased without the underscore, so that SomeName becomes some_name.
+The company you are working for is refactoring its entire codebase. It's changing all naming conventions from camel to snake case (camelCasing to snake*casing*).
+*Every capital letter is replaced with its lowercase prefixed by an underscore*, except for the first letter, which is lowercased without the underscore, so that SomeName becomes some_name.
 
 ## Task
 

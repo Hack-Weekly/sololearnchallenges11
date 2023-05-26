@@ -30,4 +30,4 @@ this is a sentence
 
 ## Explanation
 
-There are 6 vowels in the sentence this is a sentence.
+There are 6 vowels in the sentence: th**i**s **i**s **a** s**e**nt**e**nc**e**.

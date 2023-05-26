@@ -32,7 +32,9 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Candles](Easy/Candles/README.md)| [Candles.py](Easy/Candles/candles.py)| May 23, 2023 |
 | [Number of Ones](Easy/NumberofOnes/README.md)| [NumberofOnes.py](Easy/NumberofOnes/numberof_ones.py)| May 23, 2023 |
 | [Duct Tape](Easy/DuctTape/README.md)| [DuctTape.py](Easy/DuctTape/duct_tape.py)| May 24, 2023 |
-| [Multiples](Easy/Multiples/README.md)| [Multiples.py](Easy/Multiples/multiples.py)| May 24, 2023 | >> easy |
+| [Multiples](Easy/Multiples/README.md)| [Multiples.py](Easy/Multiples/multiples.py)| May 24, 2023 |
+| [Hovercraft](Easy/Hovercraft/README.md)| [Hovercraft.py](Easy/Hovercraft/hovercraft.py)| May 25, 2023 |
+| [Vowel Counter](Easy/VowelCounter/README.md)| [VowelCounter.py](Easy/VowelCounter/vowel_counter.py)| May 25, 2023 | >> easy |
 
 ## Medium
 
@@ -51,7 +53,9 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Building Blocks](Medium/BuildingBlocks/README.md)| [BuildingBlocks.py](Medium/BuildingBlocks/building_blocks.py)| May 23, 2023 |
 | [Camel to Snake](Medium/CameltoSnake/README.md)| [CameltoSnake.py](Medium/CameltoSnake/camelto_snake.py)| May 23, 2023 |
 | [Name Buddy](Medium/NameBuddy/README.md)| [NameBuddy.py](Medium/NameBuddy/name_buddy.py)| May 24, 2023 |
-| [Text Decompressor](Medium/TextDecompressor/README.md)| [TextDecompressor.py](Medium/TextDecompressor/text_decompressor.py)| May 24, 2023 | >> medium |
+| [Text Decompressor](Medium/TextDecompressor/README.md)| [TextDecompressor.py](Medium/TextDecompressor/text_decompressor.py)| May 24, 2023 |
+| [Tax Free](Medium/TaxFree/README.md)| [TaxFree.py](Medium/TaxFree/tax_free.py)| May 25, 2023 |
+| [That's Odd...](Medium/ThatsOdd/README.md)| [ThatsOdd.py](Medium/ThatsOdd/thats_odd.py)| May 25, 2023 | >> medium |
 
 ## Hard
 
@@ -64,7 +68,8 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Security](Hard/_Security/README.md)| [Security.py](Hard/_Security/security.py)| May 21, 2023 |
 | [2D Map](Hard/2DMap/README.md)| [2DMap.py](Hard\2DMap\map_2d.py)| May 22, 2023 |
 | [Digits of Pi](Hard/DigitsofPi/README.md)| [DigitsofPi.py](Hard/DigitsofPi/digitsof_pi.py)| May 23, 2023 |
-| [Hofstadter's Q-Sequence](Hard/HofstadtersQSequence/README.md)| [HofstadtersQSequence.py](Hard/HofstadtersQSequence/hofstadters_q_sequence.py)| May 24, 2023 | >> hard |
+| [Hofstadter's Q-Sequence](Hard/HofstadtersQSequence/README.md)| [HofstadtersQSequence.py](Hard/HofstadtersQSequence/hofstadters_q_sequence.py)| May 24, 2023 |
+| [Poker Hand](Hard/PokerHand/README.md)| [PokerHand.py](Hard/PokerHand/poker_hand.py)| May 25, 2023 | >> hard |
 
 ### Change-log
 

@@ -8,7 +8,7 @@ card_values = [int(card[:-1]) for card in cards]
 max_of_a_kind = max(card_values.count(card_value) for card_value in card_values)
 unique_card_count = len(set(card_values))
 is_straight = sorted(card_values) == list(range(min(card_values), max(card_values) + 1))
-is_flush = len(set([card[-1] for card in cards])) == 1
+is_flush = len({card[-1] for card in cards}) == 1
 
 if is_straight and is_flush:
     if min(card_values) == 10:

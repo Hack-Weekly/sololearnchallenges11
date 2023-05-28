@@ -35,7 +35,7 @@ The codes will be written on mobile device in Sololearn sandbox, sucessfully run
 | [Multiples](Easy/Multiples/README.md)| [Multiples.py](Easy/Multiples/multiples.py)| May 24, 2023 |
 | [Hovercraft](Easy/Hovercraft/README.md)| [Hovercraft.py](Easy/Hovercraft/hovercraft.py)| May 25, 2023 |
 | [Vowel Counter](Easy/VowelCounter/README.md)| [VowelCounter.py](Easy/VowelCounter/vowel_counter.py)| May 25, 2023 |
-| [Izzy the Iguana](Easy/IzzytheIguana/README.md)| [IzzytheIguana.py](Easy/IzzytheIguana/izzythe_iguana.py)| May 26, 2023 |
+| [Izzy the Iguana](Easy/IzzyTheIguana/README.md)| [IzzyTheIguana.py](Easy/IzzyTheIguana/izzy_the_iguana.py)| May 26, 2023 |
 | [Jungle Camping](Easy/JungleCamping/README.md)| [JungleCamping.py](Easy/JungleCamping/jungle_camping.py)| May 26, 2023 | >> easy |
 
 ## Medium
